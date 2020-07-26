@@ -1,4 +1,4 @@
-## My personal preferences
+## Personal Preferences
 
 📃 Lua (Löve2D, Garry's Mod), JavaScript (NodeJS), C#
 
