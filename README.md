@@ -1,7 +1,12 @@
-## Personal Preferences
+## Hey there, I am Vyrkx
 
-📃 Lua (Löve2D, Garry's Mod), JavaScript (NodeJS), C#
+I'm a 19 year old french Game Developper and I'm specializing myself in programming in various languages such as Lua, C# & C++.
 
-🕹 Garry's Mod, Mount & Blade: Warband, Mordhau, Streets of Rogue
+I'm also a **garry's mod** modder, mainly *─ but not limited to* ─ creating content for the [SCP Foundation](https://scp-wiki.wikidot.com/)
 
-🎶 [O, The Falling Down to the World of Csyrelia](https://www.youtube.com/watch?v=s--CRo5EWeE), [Medieval 2: Total War OST](https://www.youtube.com/watch?v=JbaFxsW3-WA&t=0s)
+## You can find me on..
+[Steam](https://steamcommunity.com/id/guthen/)
+
+[![Discord Banner 2](https://discordapp.com/api/guilds/560924151418847262/widget.png?style=banner2)](https://discord.gg/Yh5TWvPwhx)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/vyrkx)
